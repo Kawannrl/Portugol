@@ -3,7 +3,7 @@ programa
 	
 	funcao inicio()
 	{
-		inteiro vet [10], matriz [10][10], n, m, i, j
+		inteiro matriz [10][10], n, m, i, j
 
 		escreva ("Qual a quantidade de linhas da matriz: ")
 		leia (n)
